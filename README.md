@@ -1,7 +1,14 @@
-### Hi there 👋
+<!-- ### Hi there 👋  -->
+![](bio.jpg)
+<!-- I'm Minh, Ph.D. student at University of British Columbia.
+ -->
+👯 Feel free to reach out about reseach or anything else.
 
+🔭 My [[Google scholar]](https://scholar.google.com/citations?user=-oSQmxwAAAAJ&hl=en) \
+🔭 I’m currently working on Explainable Models for Prostate Cancer Detection in Ultrasound \
+💬 Keep in touch with me on [[Twitter]](https://www.linkedin.com/in/minhto2802/) \
 <!--
-**minhto2802/minhto2802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**timmyvg/timmyvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
