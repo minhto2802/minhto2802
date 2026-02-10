@@ -1,8 +1,6 @@
 <!-- ### Hi there 👋  -->
 ![](bio.jpg)
-<!-- I'm Minh, Ph.D. student at University of British Columbia.
- -->
-😄 Hi there! I'm Minh, Ph.D. student at University of British Columbia.
+<!-- I'm Minh, I recently obtained my PhD at University of British Columbia. -->
 
 🌐 This is my homepage: [minhto2802.github.io](https://minhto2802.github.io)   
 🌱 My [[Google scholar]](https://scholar.google.com/citations?user=-oSQmxwAAAAJ&hl=en)  
