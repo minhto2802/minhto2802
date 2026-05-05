@@ -4,7 +4,7 @@
 
 🌐 This is my homepage: [minhto2802.github.io](https://minhto2802.github.io)   
 🌱 My [[Google scholar]](https://scholar.google.com/citations?user=-oSQmxwAAAAJ&hl=en)  
-🔭 I’m currently working on Agentic AI for medical image discovery 
+🔭 I’m currently working on Agentic AI for medical image discovery.
 💬 Keep in touch with me on [[LinkedIn]](https://www.linkedin.com/in/minhto2802/)  
 👯 Feel free to reach out about research or anything else.  
 
